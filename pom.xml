@@ -1,0 +1,22 @@
+  GNU nano 2.9.3                       pom.xml                        
+Modified
+
+                        </plugin>
+                </plugins>
+        </build>
+
+        <r
+epositories>
+                <repository>
+                        <id>saucelabs-repository</id>
+
+<url>https://repository-saucelabs.forge.cloudbees.com/release</url>
+                        <releases>
+                                <enabled>true</enabled>
+                        </releases>
+                        <snapshots>
+                                <enabled>true</enabled>
+                        </snapshots>
+                </repository>
+        </repositories>
+

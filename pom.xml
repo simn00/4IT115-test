@@ -7,7 +7,11 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<groupId>github.com/simn00</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
 	<description>příklad do testu</description>
+=======
+	<name>test_case</name>
+>>>>>>> dev
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
